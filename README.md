@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm NIshant,a backend devloper(python) based in india 
+I'm Nishant singh,a backend devloper(python) based in india 
 
 i design and build whatever i can imagine.
 🌱 I’m currently learning ...
